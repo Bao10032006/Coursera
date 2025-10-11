@@ -1,8 +1,13 @@
     h1 { 
         font-family: Arial, Helvetica, sans-serif;
         color: aqua;
-        background-color: #ff0;
+        background-color: rgb(202, 202, 55);
         text-align: justify;
         font-size: 50px;
 
 }
+    p {
+        color:blue;
+        background-color: antiquewhite;
+        text-align: justify;
+    }
