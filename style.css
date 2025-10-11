@@ -17,6 +17,6 @@
     .same-size {
             width: 200px;      /* chiều rộng */
             height: 200px;     /* chiều cao */
-            object-fit:fill; /* cắt ảnh cho vừa khung mà không méo */
+            object-fit:cover; /* cắt ảnh cho vừa khung mà không méo */
             border-radius: 5px; /* tuỳ chọn: bo góc */
     }
