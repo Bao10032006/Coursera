@@ -36,11 +36,16 @@
         background-color: chocolate;
     }
     nav{
+        
         flex-direction: column;
         font-family: Arial, Helvetica, sans-serif;
         background-color: aqua;
     }
-    
+    #navbor{
+        border: solid black 2px;
+        display: inline;
+        margin-right: 100px;
+    }
     header{
         width: 100%;
         background-color: antiquewhite;
